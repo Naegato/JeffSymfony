@@ -8,3 +8,9 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> PHPSTORM ###
+.idea
+.idea/
+.idea*
+###< PHPSTORM ###
